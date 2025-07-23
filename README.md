@@ -7,8 +7,8 @@
 *Pr. Seddiq EL KASMI ALAOUI*
 
 ## 👨‍🎓 Student:
-**Ayoub Faddil**
-**oussma bekich**
+-**Ayoub Faddil**
+-**oussma bekich**
 
 ---
 
