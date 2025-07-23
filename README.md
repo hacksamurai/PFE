@@ -4,7 +4,7 @@
 **Development of a Botnet Command & Control (C2) System for Educational and Research Purposes**
 
 ## 👨‍🏫 Supervisor:
-**
+*Pr. Seddiq EL KASMI ALAOUI*
 
 ## 👨‍🎓 Student:
 **Ayoub Faddil**
