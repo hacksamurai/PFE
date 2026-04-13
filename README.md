@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 Student:
 -**Ayoub Faddil**
--**oussma bekich**
+-**oussama bekich**
 
 ---
 
